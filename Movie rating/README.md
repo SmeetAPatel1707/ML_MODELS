@@ -39,5 +39,3 @@ This project is developed as part of practical learning in machine learning and 
 5. Evaluate model performance using regression metrics  
 
 ---
-
-## 📂 Project Structure
