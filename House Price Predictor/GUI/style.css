@@ -1,0 +1,31 @@
+.mac-window {
+    background: #f4f4f5;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 8px 20px rgba(0,0,0,0.1);
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.mac-buttons {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+.red, .yellow, .green {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.red { background-color: #ff5f56; }
+.yellow { background-color: #ffbd2e; }
+.green { background-color: #27c93f; }
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    color: #aaa;
+    font-size: 12px;
+}
