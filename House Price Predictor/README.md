@@ -67,12 +67,10 @@ Copy code
 jupyter notebook house-prices-advanced-regression-techniques.ipynb
 Install required dependencies (if not already installed):
 
-bash
-Copy code
 pip install pandas numpy scikit-learn matplotlib seaborn
 Run all cells sequentially to train and evaluate the model.
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 Hyperparameter tuning to improve prediction accuracy
 
 Experiment with advanced regression techniques
@@ -81,7 +79,7 @@ Deploy the model as a web application
 
 Integrate real-time housing data
 
-👤 Author
+## 👤 Author
 Smeet Patel
 AI & Backend Developer
 Master’s Student in Artificial Intelligence – Monash University
