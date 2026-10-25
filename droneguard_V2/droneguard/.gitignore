@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+datasets/
+runs/
+*.pt
+!weights/README.md
+.ipynb_checkpoints/
